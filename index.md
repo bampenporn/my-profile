@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Hi I'm Bampenporn So Ngoen, Welcome to my Github profile.
 
-You can use the [editor on GitHub](https://github.com/bampenporn/my-profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+👋 Hi, I’m bampenporn so ngoen. 
+👋 you can call me Aon.
+👀 I’m interested in Boardgame. 
+🌱 I'm currently working on my boardgames. 
+🌱 I'm currently learning Python SQL codepost and GitHub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Quotes
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+" ง่วงก็นอน เหนื่อยก็ร้องไห้ อย่าฝืน "
 
 ```markdown
 Syntax highlighted code block
